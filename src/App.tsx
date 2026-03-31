@@ -7,8 +7,7 @@ import { Footer } from "./components/Footer";
 import { PremiumFeatures } from "./components/PremiumFeatures";
 import { RequestDemoModal } from "./components/RequestDemoModal";
 import { BlogPage } from "./components/BlogPage";
-import { BlogCard } from "./components/BlogCard";
-import { companies, blogCategories } from "./data";
+import { companies } from "./data";
 import {
   ArrowRight,
   Sparkles,
